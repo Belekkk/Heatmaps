@@ -1,3 +1,3 @@
-# Heat maps
+# Heatmaps
 
 On the way.
