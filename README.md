@@ -1,3 +1,3 @@
 # Heatmaps
 
-On the way.
+![Example](example.png)
